@@ -9,3 +9,8 @@ bl1 {
 cursive {
 	font-family: cursive
 }
+
+p2 {
+	text-align: right;
+	font-size: 10px;
+}
