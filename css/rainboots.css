@@ -27,4 +27,9 @@ body {
 	margin-left: 5%
 }
 
+.centerMe {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
 
