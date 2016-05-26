@@ -16,5 +16,7 @@ p2 {
 }
 
 td {
+	border-style: dashed;
 	border-width: 20px;
+	border-color: white;
 }
