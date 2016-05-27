@@ -60,3 +60,8 @@ nav ul li a:hover {
 	background-color: #F1BE69;
 	color: #8F5F2E;
 }
+
+h1 {
+	display: block;
+	margin: 50px;
+}
