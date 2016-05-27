@@ -18,8 +18,8 @@ p2 {
 td {
 	border-style: dashed;
 	border-width: 10px;
-	border-top-width: 0px;
-	padding-top: 0px;
+	border-top-width: 0;
+	padding-top: 0;
 	border-color: #A4A4A4;
 }
 
@@ -37,4 +37,14 @@ body {
 h2 {
 	margin-bottom: 20px;
 	padding: 5px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
 }
