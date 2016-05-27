@@ -1,5 +1,5 @@
-pink {
-    color: #FF7070;
+red {
+    color: #790000;
 }
 
 bl1 {
@@ -57,6 +57,6 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-	background-color: purple;
-	color: white;
+	background-color: #F1BE69;
+	color: #8F5F2E;
 }
