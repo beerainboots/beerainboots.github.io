@@ -52,16 +52,12 @@ nav ul li {
 nav ul li a {
 	display: block;
 	padding: 8px;
-	background-color: #FFFFFF;
+	background-color: #F1BE69;
+	color: 8F5F2E
 	text-decoration: none;
 }
 
 nav ul li a:hover {
-	background-color: #F1BE69;
-	color: #8F5F2E;
-}
-
-h1 {
-	display: block;
-	margin: 50px;
+	background-color: #8F5F2E;
+	color: #F1BE69;
 }
