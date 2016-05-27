@@ -3,7 +3,7 @@ red {
 }
 
 bl1 {
-	color: #3794C3
+	color: #A5FAFF
 }
 
 cursive {
@@ -24,7 +24,7 @@ td {
 
 body {
 	background-color: #FFAEA5;
-	margin-left: 10px;
+	margin-left: 30px;
 }
 
 .centerMe {
@@ -38,3 +38,7 @@ h2 {
 	padding: 5px;
 }
 
+m1 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
