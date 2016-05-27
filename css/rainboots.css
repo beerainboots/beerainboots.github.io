@@ -1,5 +1,5 @@
 red {
-    color: red;
+    color: #FF4D4D;
 }
 
 bl1 {
@@ -19,11 +19,11 @@ td {
 	border-style: dashed;
 	border-width: 10px;
 	border-top-width: 0px;
-	border-color: #FFAEA5;
+	border-color: #A4A4A4;
 }
 
 body {
-	background-color: #5F5F5F;
+	background-color: #A4A4A4;
 	margin-left: 30px;
 }
 
