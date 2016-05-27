@@ -40,9 +40,14 @@ h2 {
 }
 
 nav ul {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	background-color: #F1BE69
 }
 
 nav ul li {
