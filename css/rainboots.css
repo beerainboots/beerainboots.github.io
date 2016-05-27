@@ -45,6 +45,10 @@ ul {
 	padding: 0;
 }
 
-li {
-	display: inline;
+lifloat {
+	float: left;
+}
+
+a {
+	display: block;
 }
