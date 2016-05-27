@@ -39,16 +39,24 @@ h2 {
 	padding: 5px;
 }
 
-ul {
+ulnav {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
 
-lifloat {
+linav {
 	float: left;
 }
 
-a {
+anav {
 	display: block;
+	padding: 8px;
+	background-color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: purple;
+	color: white;
 }
