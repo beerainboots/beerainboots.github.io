@@ -16,11 +16,10 @@ p2 {
 }
 
 td {
-	border-style: dotted;
+	border-style: hidden;
 	border-width: 15px;
 	border-top-width: 0;
 	padding-top: 0;
-	border-color: #FFFFFF;
 }
 
 body {
