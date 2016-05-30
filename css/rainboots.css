@@ -39,7 +39,6 @@ h1 {
 }
 
 h2 {
-	margin-bottom: 20px;
 	font-family: impact;
 	padding: 5px;
 }
@@ -74,4 +73,8 @@ nav ul li a {
 nav ul li a:hover {
 	background-color: #8F5F2E;
 	color: #F1BE69;
+}
+
+imgset {
+	margin-top: 20px;
 }
