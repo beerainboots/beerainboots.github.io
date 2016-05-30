@@ -16,11 +16,11 @@ p2 {
 }
 
 td {
-	border-style: dashed;
+	border-style: dotted;
 	border-width: 15px;
 	border-top-width: 0;
 	padding-top: 0;
-	border-color: #A4A4A4;
+	border-color: #FFFFFF;
 }
 
 body {
@@ -48,7 +48,7 @@ table {
 	font-family: comic sans ms;
 }
 
-ol {
+ul {
 	font-family: comic sans ms;
 }
 
