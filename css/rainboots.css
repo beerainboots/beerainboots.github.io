@@ -36,6 +36,7 @@ body {
 
 h1 {
 	font-family: impact;
+	margin-top: 50px;
 }
 
 h2 {
@@ -73,6 +74,12 @@ nav ul li a {
 nav ul li a:hover {
 	background-color: #8F5F2E;
 	color: #F1BE69;
+}
+
+table tr td bl1 {
+	margin-top: 0;
+	border-top: 0;
+	padding-top: 0;
 }
 
 imgset {
