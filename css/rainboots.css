@@ -6,8 +6,8 @@ bl1 {
 	color: #E5E5E5
 }
 
-cursive {
-	font-family: cursive
+p {
+	font-family: cursive;
 }
 
 p2 {
@@ -17,7 +17,7 @@ p2 {
 
 td {
 	border-style: dashed;
-	border-width: 10px;
+	border-width: 15px;
 	border-top-width: 0;
 	padding-top: 0;
 	border-color: #A4A4A4;
@@ -34,9 +34,18 @@ body {
 	display: block;
 }
 
+h1 {
+	font-family: impact;
+}
+
 h2 {
 	margin-bottom: 20px;
+	font-family: impact;
 	padding: 5px;
+}
+
+li {
+	font-family: cursive;
 }
 
 nav ul {
