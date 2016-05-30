@@ -48,6 +48,10 @@ table {
 	font-family: comic sans ms;
 }
 
+ol {
+	font-family: comic sans ms;
+}
+
 nav ul {
 	position: fixed;
 	top: 0;
@@ -77,12 +81,12 @@ nav ul li a:hover {
 	color: #F1BE69;
 }
 
-table tr td bl1 {
+imgset {
+	margin-top: 20px;
+}
+
+#pancakeTable {
 	margin-top: 0;
 	border-top: 0;
 	padding-top: 0;
-}
-
-imgset {
-	margin-top: 20px;
 }
