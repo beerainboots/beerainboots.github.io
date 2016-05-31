@@ -84,13 +84,13 @@ imgset {
 
 #pancakeTable {
 	border-style: hidden;
-	border-width: 20px;
+	border-width: 50px;
 	margin-top: 0;
 	border-top: 0;
 	padding-top: 0;
 }
 
-#candidateTalbe {
+#candidateTable {
 	border-style: hidden;
-	border-width: 25px;
+	border-width: 55px;
 }
