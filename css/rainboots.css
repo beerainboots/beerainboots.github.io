@@ -17,7 +17,7 @@ p2 {
 
 td {
 	border-style: hidden;
-	border-width: 20px;
+	border-width: 80px;
 }
 
 body {
@@ -80,12 +80,4 @@ nav ul li a:hover {
 
 imgset {
 	margin-top: 20px;
-}
-
-td {
-	border-style: hidden;
-	border-width: 50px;
-	margin-top: 0;
-	border-top: 0;
-	padding-top: 0;
 }
