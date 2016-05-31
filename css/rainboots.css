@@ -82,15 +82,10 @@ imgset {
 	margin-top: 20px;
 }
 
-#pancakeTable {
+td {
 	border-style: hidden;
 	border-width: 50px;
 	margin-top: 0;
 	border-top: 0;
 	padding-top: 0;
-}
-
-#candidateTable {
-	border-style: dashed;
-	border-width: 55px;
 }
