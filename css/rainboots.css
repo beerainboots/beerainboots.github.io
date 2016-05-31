@@ -91,6 +91,6 @@ imgset {
 }
 
 #candidateTable {
-	border-style: hidden;
+	border-style: dashed;
 	border-width: 55px;
 }
