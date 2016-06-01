@@ -1,11 +1,3 @@
-red {
-    color: #C30000;
-}
-
-bl1 {
-	color: #D210A5;
-}
-
 p {
 	font-family: comic sans ms;
 	color: #8F5F2E;
@@ -54,6 +46,10 @@ table {
 
 ul {
 	font-family: comic sans ms;
+}
+
+li {
+	color: #AE7E4D;
 }
 
 nav ul {
