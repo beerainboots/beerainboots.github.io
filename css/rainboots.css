@@ -51,18 +51,12 @@ table {
 
 ul {
 	font-family: comic sans ms;
-	color: #D7AC80;
-	background-color: #8F5F2E;
+	color: #8F5F2E;
 }
 
 table tr td ol {
 	color: #D6AC80;
 	background-color: #6A3F13;
-}
-
-
-body ul li {
-	color: #8F5F2E;
 }
 
 nav ul {
