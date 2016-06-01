@@ -54,13 +54,17 @@ ul {
 }
 
 table tr td ul li {
-	color: #AE7E4D;
+	color: #D6AC80;
 	background-color: #6A3F13;
 }
 
 table tr td ol li {
-	color: #AE7E4D;
+	color: #D6AC80;
 	background-color: #6A3F13;
+}
+
+body ul li {
+	color: #8F5F2E;
 }
 
 nav ul {
