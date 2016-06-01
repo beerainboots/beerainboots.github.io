@@ -53,12 +53,12 @@ ul {
 	font-family: comic sans ms;
 }
 
-table tr td ul {
-	color: #AE7E4D;
+table tr td ol {
+	color: #D6AC80;
 	background-color: #6A3F13;
 }
 
-table tr td ol {
+table tr td ul {
 	color: #D6AC80;
 	background-color: #6A3F13;
 }
