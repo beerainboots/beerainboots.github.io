@@ -9,12 +9,17 @@ p2 {
 	color: #8F5F2E;
 }
 
+th {
+	color: #6A3F13;	
+}
+
 td {
 	border-style: hidden;
 	padding-right: 50px;
 	padding-left: 50px;
 	padding-top: 5px;
 	padding-bottom: 5px;
+	color: #8F5F2E;
 }
 
 body {
@@ -50,6 +55,7 @@ ul {
 
 li {
 	color: #AE7E4D;
+	background-color: #6A3F13;
 }
 
 nav ul {
